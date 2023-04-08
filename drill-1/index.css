@@ -1,0 +1,16 @@
+.one {
+    background-color: gray;
+    padding: 65px;
+  }
+
+  .two {
+    padding: 65px;
+    background-color: whitesmoke;
+    height: 700px;
+  }
+  .three {
+    padding: 65px;
+    background-color: #696969;
+    height:10px;
+  }
+  .container {    padding: 0 5%;}

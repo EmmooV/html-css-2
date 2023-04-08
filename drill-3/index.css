@@ -1,0 +1,58 @@
+<style>
+  body {
+    margin: 0;
+  }
+
+
+
+  .zero{
+    padding: 0;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  .heada {
+    background-color: lightgray;
+    padding: 10px;
+    
+  }
+  #demobox {
+    background-color: #6495ED;
+    height: 42px;
+    width: 41px;
+    position: relative;
+    padding: 0;
+}
+  .paragraph {
+    padding: 65px;
+  }
+  .one {
+    background-color: #6495ED;
+    padding: 65px;
+  }
+
+  .two {
+    padding: 65px;
+    background-color: aquamarine;
+  }
+
+  .three {
+    padding: 65px;
+    background-color: rgb(159, 211, 124);
+  }
+  .four {
+    padding: 65px;
+    background-color: yellow;
+  }
+</style>
+
+<div class="one">
+  <h1>This is section one</h1>
+</div>
+<div class="two">
+  <h1>This is section two</h1>
+</div>
+<div class="three">
+  <h1>This is section three</h1>
+</div>

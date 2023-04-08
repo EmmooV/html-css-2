@@ -1,0 +1,63 @@
+h1{
+    color: rgb(33, 33, 88)
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+   
+}
+.one {
+    
+    padding: 65px;
+   border-style: solid;
+   display: flex;
+    justify-content: space-between;
+  }
+  #demobox {
+    background-color: purple;
+    height: 100px;
+    width: 40px;
+   
+    padding: 0;
+}
+#greenbox {
+    background-color: rgb(33, 194, 33);
+    height: 120px;
+    width: 250px;
+    
+    /* left:400px; top:20px; */
+}
+#dot {
+    background-color: powderblue;
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 50%;
+}
+
+  .two {
+   padding: 65px;
+
+    border-style: dotted;
+  }
+  #boxi {
+    background-color: beige;
+    height: 150px;
+    width: 600px;
+    box-shadow: 10px 10px 5px gray;
+  }
+  #hello {
+    font-family:;
+    font-weight:bold;
+    letter-spacing:.2rem;
+    font-size:xx-large;
+    color:blue;
+    text-align: center;
+    height: 150px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 1px 1px black;
+  }
+  
